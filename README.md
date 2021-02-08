@@ -8,9 +8,10 @@
 </a>
 
 <br/>
-🔭 I’m currently working on Hiberus Technology
-👯 I’m looking to collaborate on open source projects to improve my coding skills
-😄 Pronouns: He/Him
+
+* 🔭 I’m currently working on Hiberus Technology
+* 👯 I’m looking to collaborate on open source projects to improve my coding skills
+* 😄 Pronouns: He/Him
 
 <div align="center">
   
