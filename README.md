@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there! I'm Inixio Amillano Casteig 👋
 
-<!--
-**inixioamillano/inixioamillano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://twitter.com/inixiodev">
+  <img align="left" alt="Inixio | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/inixioamillano/">
+  <img align="left" alt="Inixio's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Hiberus Technology
+- 👯 I’m looking to collaborate on open source projects to improve my coding skills
+- 😄 Pronouns: He/Him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V43E9M0)
+
+</div>
+
+<a href="https://github.com/inixioamillano">
+<img align="center" alt="My Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=inixioamillano&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+
+<a href="https://github.com/inixioamillano">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=inixioamillano&layout=compact&theme=radical" />
+</a>
