@@ -1,7 +1,5 @@
 ### Hi there! I'm Inixio Amillano Casteig 👋
 
-<img heigh="150" align="center" src="https://avatars.githubusercontent.com/u/36919931?s=460&u=888fe3c11fe24b811c06869b6df2f50843c87ce4&v=4"/>
-
 <a href="https://twitter.com/inixiodev">
   <img align="left" alt="Inixio | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
