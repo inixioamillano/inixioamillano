@@ -10,6 +10,8 @@
 </a>
 </div>
 
+<br />
+
 ## About me
 
 Hi, I'm [Inixio Amillano Casteig](https://inixio.dev/), a passionate Full Stack Web Developer 🚀
