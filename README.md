@@ -1,14 +1,9 @@
 ### Hi there! I'm Inixio Amillano Casteig 👋
 
 ## Where to find me
-<div>
-<a href="https://twitter.com/inixiodev">
-  <img align="left" alt="Inixio | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/inixioamillano/">
-  <img align="left" alt="Inixio's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-</div>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Inixio%20Amillano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/inixioamillano/)](https://www.linkedin.com/in/inixioamillano/)
+[![Gmail Badge](https://img.shields.io/badge/-inixio.amillano@inixio.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:inixio.amillano@inixio.dev)](mailto:inixio.amillano@inixio.dev)
 
 <br />
 
