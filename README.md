@@ -1,4 +1,4 @@
-### Hi there! I'm Inixio Amillano Casteig 👋
+<h3 align="center"> Hi there! I'm Inixio Amillano Casteig</h3>
 
 <div align="center">&#8220; Y que el mundo nos recuerde por soñar despiertos &#8221;</div>
 
