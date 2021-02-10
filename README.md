@@ -1,11 +1,11 @@
 ### Hi there! I'm Inixio Amillano Casteig 👋
 
+<div align="center">&#8220; Y que el mundo nos recuerde por soñar despiertos &#8221;</div>
+
 ## Where to find me
 
 [![Linkedin Badge](https://img.shields.io/badge/-Inixio%20Amillano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/inixioamillano/)](https://www.linkedin.com/in/inixioamillano/)
 [![Gmail Badge](https://img.shields.io/badge/-inixio.amillano@inixio.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:inixio.amillano@inixio.dev)](mailto:inixio.amillano@inixio.dev)
-
-<br />
 
 ## About me
 
@@ -14,6 +14,8 @@ Hi, I'm [Inixio Amillano Casteig](https://inixio.dev/), a passionate Full Stack 
 * 🔭 I’m currently working on Hiberus Technology
 * 👯 I’m looking to collaborate on open source projects to improve my coding skills
 * 😄 Pronouns: He/Him
+
+<span class="iconify" data-icon="ion-md-quote" data-inline="false">Y que el mundo nos recuerde por soñar despiertos 🚀</span>
 
 ## Support my open source projects
 
