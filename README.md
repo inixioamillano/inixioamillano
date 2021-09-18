@@ -19,12 +19,10 @@ Hi, I'm [Inixio Amillano Casteig](https://inixio.dev/), a passionate Full Stack 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V43E9M0)
 
-## My GitHub Stats
+## GitHub Stats
 
-<a href="https://github.com/inixioamillano">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=inixioamillano&layout=compact&theme=radical" />
-</a>
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=inixioamillano&theme=radical&layout=compact)](https://github.com/ainixioamillano/github-readme-stats)
 
-## A playlist to know me better
+[![My GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=inixioamillano&layout=compact&theme=radical)](https://github.com/ainixioamillano/github-readme-stats)
 
-<iframe src="https://open.spotify.com/embed/playlist/6FwXstShkorak26HvgNNJw?theme=0" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
