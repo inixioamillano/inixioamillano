@@ -1,7 +1,5 @@
 <h3 align="center"> Hi there! I'm Inixio Amillano Casteig</h3>
 
-<div align="center">&#8220; Y que el mundo nos recuerde por soñar despiertos &#8221;</div>
-
 ## Where to find me
 
 [![Linkedin Badge](https://img.shields.io/badge/-Inixio%20Amillano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/inixioamillano/)](https://www.linkedin.com/in/inixioamillano/)
@@ -24,8 +22,9 @@ Hi, I'm [Inixio Amillano Casteig](https://inixio.dev/), a passionate Full Stack 
 ## My GitHub Stats
 
 <a href="https://github.com/inixioamillano">
-<img align="center" alt="My Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=inixioamillano&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
-
-<a href="https://github.com/inixioamillano">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=inixioamillano&layout=compact&theme=radical" />
 </a>
+
+## A playlist to know me better
+
+<iframe src="https://open.spotify.com/embed/playlist/6FwXstShkorak26HvgNNJw?theme=0" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
